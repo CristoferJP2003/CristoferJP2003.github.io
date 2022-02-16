@@ -1,9 +1,9 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
+site: HICHRIS
+title: hichris
+keywords: chris, blog
 description: >-
-  Ephesus - Minimalist Jekyll Theme
+  hichris.social
 lang: en-US
 timezone:  Europe/Istanbul
 repo: https://github.com/onepase/Ephesus # site repo [optional]
